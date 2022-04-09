@@ -7,7 +7,9 @@ A very simple game/maze in which the player is required to find a lantern to exi
 All basic features
 
 Music/sound effects
+
 Additional lighting (on the Lantern object)
+
 Multiple enemies
 
 
